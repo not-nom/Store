@@ -1,0 +1,19 @@
+.ModalImgSect{
+    width: 100vw !important;
+    height: 100vh !important;
+    background: rgba(37, 42, 52, 0.73);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+}
+.ModalImg{
+    width: 896px;
+    height: 531px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 3;
+}
